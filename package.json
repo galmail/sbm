@@ -1,0 +1,15 @@
+{
+  "name": "silver-bars-marketplace",
+  "version": "1.0.0",
+  "description": "CS Live Order Board",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "Gal Dubitski",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jasmine": "^3.4.0"
+  }
+}
